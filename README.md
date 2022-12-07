@@ -13,10 +13,10 @@ In this project, there are 5 parts:
 (3) EDA - Inspect, Visualize, and Clean the data.   
 (4) Building and training models:   
 
-NMF
-Kmeans
-Random Forest
-Logistic Regression
-Decision Tree. 
++ NMF 
++ Kmeans 
++ Random Forest 
++ Logistic Regression 
++ Decision Tree 
 
-(5) Summary
+(5) Summary 
