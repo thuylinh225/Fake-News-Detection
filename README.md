@@ -8,14 +8,15 @@ There are two data from this resource, included true and fake data. There are 23
 
 In this project, there are 5 parts:
 
-(1) Gather data, determine the method of data collection and provenance of the data.
-(2) Identify Unsupervised Learning Problem.
-(3) EDA - Inspect, Visualize, and Clean the data.
-(4) Building and training models:
+(1) Gather data, determine the method of data collection and provenance of the data.  
+(2) Identify Unsupervised Learning Problem.  
+(3) EDA - Inspect, Visualize, and Clean the data.   
+(4) Building and training models:   
 
 NMF
 Kmeans
 Random Forest
 Logistic Regression
-Decision Tree
+Decision Tree. 
+
 (5) Summary
